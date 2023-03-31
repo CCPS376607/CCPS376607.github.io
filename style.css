@@ -1,8 +1,8 @@
-<body>
-Font-Family: Times New Roman 
-fontsize: 16pt;
+body(
+p{
+font-family: Times New Roman; 
+fontsize: 16pt;}
 border{ 
   color:#FF2400
 }
-
-</body>
+)
